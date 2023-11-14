@@ -8,7 +8,7 @@ last update: 2023-11-14
 - [17TRACK](https://www.17track.net/en)
 - [Global Track And Trace](https://globaltracktrace.ptc.post/gtt.web/) universal postal union
 
-**==== general electronics ====**
+## general electronics 
 Location: India
 
 - [Robu.in](https://robu.in/)  
@@ -22,7 +22,7 @@ Location: India
 - [Robocraze](https://robocraze.com/)  
 - [KTRON India](https://www.ktron.in/)  
 
-**==== pcb design ====**
+## pcb design 
 Location: India
 
 - [PCB Manufacturing Service - Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) 
@@ -34,7 +34,7 @@ Location: China
 - [NextPCB](https://www.nextpcb.com/)  
 - [PCBWay](https://www.pcbway.com/about.html)
 
-**==== keyboards ====**
+## keyboards 
 Location : India
 
 - [StacksKB](https://stackskb.com/)  
@@ -44,17 +44,17 @@ Location : India
 - [GenesisPC](https://www.genesispc.in/)  
 - [KeychronIndia](https://keychron.in/)
 
-**==== keycaps ====**
+## keycaps 
 Location : India
 - [CuriosityCaps](https://curiositycaps.in/)  
 
-**==== cables ====**
+## cables 
 Location : India
 - [CableSutra](https://cablesutra.shop/)
 - [Cables: Meckeys](https://www.meckeys.com/category/accessories/cables/?filter_stock_status=instock)  spares to makes cables
 - [ENTERRO Magnetic Cables](https://enterro.in/collections/frontpage)  
 
-**==== 3d printers and spare ====**
+## 3d printers and spare 
 Location: India
 
 - [WOL 3D](https://worldoflilliputs.com/products/)  printers, scanners, pens, filaments
@@ -63,14 +63,14 @@ Location: India
 - [3DPrintronics](https://www.3dprintronics.com/)  for prusa printers
 - [DConqueror3D](https://dc3d.in/)  3d printer spares and voron builds
 
-**==== 3d printing services ====**
+## 3d printing services 
 Location: India
 
 - [A3DXYZ](https://a3dxyz.com/)  
 - [SAP 3D](https://sap3d.com/)  
 - [Robu.in - 3d printing services](https://robu.in/product-category/3d-printer-parts/3d-printing-service/)
 
-**==== pc builds ====**
+## pc builds 
 Location: India
 
 - [prime abgb](https://www.primeabgb.com/)  
