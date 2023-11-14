@@ -63,6 +63,7 @@ Location: India
 - [3idea](https://www.3idea.in/)
 - [3DPrintronics](https://www.3dprintronics.com/)  for prusa printers
 - [DConqueror3D](https://dc3d.in/)  3d printer spares and voron builds
+- [3DZONE](https://3dzone.in/)  
 
 ## 3d printing services 
 Location: India
