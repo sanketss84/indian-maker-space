@@ -24,7 +24,7 @@ last update: 2023-11-14
 - [beekeeb/FelixKeeb: The FelixKeeb is an open source 5×12+4 (5×6+2 on each side) split ortholinear keyboard with hotswap sockets support.](https://github.com/beekeeb/FelixKeeb) 
 
 
-## column stagger split Keyboards
+## column stagger split keyboards
 - [omkbd/ErgoDash: keyboard](https://github.com/omkbd/ErgoDash)  
 - [vlkv/avalanche](https://github.com/vlkv/avalanche)
 - [tzarc/djinn: Djinn Split Keyboard](https://github.com/tzarc/djinn) 
@@ -40,11 +40,11 @@ last update: 2023-11-14
 - [josefadamcik/SofleKeyboard: A split keyboard based on Lily58, Crkbd and Helix keyboards](https://github.com/josefadamcik/SofleKeyboard)
 - [foureight84/sofle-keyboard-pimoroni: Pimoroni Trackball integration with Sofle Keyboard](https://github.com/foureight84/sofle-keyboard-pimoroni)
 
-### xiao boards
+## xiao boards
 - [vuanhtung/xiao_256](https://github.com/vuanhtung/xiao_256) 
 - [lehmanju/corne-xiao: Rust firmware for crkbd with Seeeduino Xiao](https://github.com/lehmanju/corne-xiao)
 
-### alice arisu
+## alice arisu boards
 - [kreme123/Kolibrimini: Kolibrimini is 40% Alice-style keyboard with arrow cluster](https://github.com/kreme123/Kolibrimini) 
 - [mattyams/arisutea-pcb: PCB design files for Arisutea Keyboard](https://github.com/mattyams/arisutea-pcb) 
 - [somepin/qalble: An Alice-like 35% 3d printed mechanical keyboard using ItsyBitsy dev boards](https://github.com/somepin/qalble) 
@@ -52,7 +52,7 @@ last update: 2023-11-14
 - [DoughnutTheGuy/Blossom: Open-sourced Arisu-styled gasket-mounted keyboard](https://github.com/DoughnutTheGuy/Blossom)
 - [FateNozomi/arisu-pcb: PCB design files for Arisu Keyboard](https://github.com/FateNozomi/arisu-pcb) 
 
-### dactyls
+## dactyl boards
 - [rianadon/dactyl-configurator: Generate Dactyl keyboard designs from your browser.](https://github.com/rianadon/dactyl-configurator) 
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) 
 
@@ -66,7 +66,7 @@ last update: 2023-11-14
 - [kkatano/bakeneko-65: A simple 65% keyboard](https://github.com/kkatano/bakeneko-65)
 - [kkatano/bakeneko-60: A simple 60% keyboard](https://github.com/kkatano/bakeneko-60) 
 
-## joe scotto
+## joe scotto collection
 [joe-scotto/scottokeebs: A collection of free-to-build handwired keyboard and macropad projects.](https://github.com/joe-scotto/scottokeebs)
 
 ## weteor collection
@@ -78,11 +78,11 @@ last update: 2023-11-14
 - [weteor/3W6: a small compact 3x5+3 split ortho keyboard](https://github.com/weteor/3W6) 
 - [weteor/ChonkyKong: 60 key ortho keyboard with numpad and makro rows](https://github.com/weteor/ChonkyKong) 
 
-### special mentions
+## special mentions
 - [duckyb/eternal-keypad: A 36 key gaming keypad, for both right and left handed mouse users.](https://github.com/duckyb/eternal-keypad)
 - [kunsteak/kunst_keyboard: Custom 18-key keyboard](https://github.com/kunsteak/kunst_keyboard)
 
-### wooting
+## wooting
 - [WootingKb/wooting-macros: The official Wooting Macros software.](https://github.com/WootingKb/wooting-macros)  
 
 ## keyboard microcontrollers
