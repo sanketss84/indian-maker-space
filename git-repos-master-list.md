@@ -26,10 +26,10 @@ last update: 2023-11-14
 
 ## column stagger split Keyboards
 - [omkbd/ErgoDash: keyboard](https://github.com/omkbd/ErgoDash)  
-- [vlkv/avalanche](https://github.com/vlkv/avalanche) like kyria 
+- [vlkv/avalanche](https://github.com/vlkv/avalanche)
 - [tzarc/djinn: Djinn Split Keyboard](https://github.com/tzarc/djinn) 
+- [GEIGEIGEIST/KLOR: KLOR is 36-42 keys column-staggered split keyboard.](https://github.com/GEIGEIGEIST/KLOR) 
 - [GEIGEIGEIST/TOTEM: TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040](https://github.com/GEIGEIGEIST/TOTEM)
-- [GEIGEIGEIST/KLOR: KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts.](https://github.com/GEIGEIGEIST/KLOR) 
 
 ### sweep variants
 - [davidphilipbarr/Sweep: Sweep - a small promicro based keyboard inspired by the Ferris.](https://github.com/davidphilipbarr/Sweep) 
@@ -63,15 +63,14 @@ last update: 2023-11-14
 - [keyquesttech/Enclave: Open source repo for the Enclave project and keyquest keyboards](https://github.com/keyquesttech/Enclave)
 
 ## bakeneko collection
-[kkatano/bakeneko-65: A simple 65% keyboard](https://github.com/kkatano/bakeneko-65)
-[kkatano/bakeneko-60: A simple 60% keyboard](https://github.com/kkatano/bakeneko-60) 
+- [kkatano/bakeneko-65: A simple 65% keyboard](https://github.com/kkatano/bakeneko-65)
+- [kkatano/bakeneko-60: A simple 60% keyboard](https://github.com/kkatano/bakeneko-60) 
 
 ## joe scotto
 [joe-scotto/scottokeebs: A collection of free-to-build handwired keyboard and macropad projects.](https://github.com/joe-scotto/scottokeebs)
 
 ## weteor collection
 - [weteor/orthocade_mcu_board: MCU daughterboard for the DigDug, BrkOut and Frogger keyboards](https://github.com/weteor/orthocade_mcu_board)
-
 - [weteor/orthocade](https://github.com/weteor/orthocade) 
 - [weteor/BrkOut: 38 key orthogonal keyboard with split alphas and offset space](https://github.com/weteor/BrkOut)
 - [weteor/SPC_EVDR: 38 key otholinear keyboard with offset spacebar(s)](https://github.com/weteor/SPC_EVDR)
@@ -80,7 +79,6 @@ last update: 2023-11-14
 - [weteor/ChonkyKong: 60 key ortho keyboard with numpad and makro rows](https://github.com/weteor/ChonkyKong) 
 
 ### special mentions
-
 - [duckyb/eternal-keypad: A 36 key gaming keypad, for both right and left handed mouse users.](https://github.com/duckyb/eternal-keypad)
 - [kunsteak/kunst_keyboard: Custom 18-key keyboard](https://github.com/kunsteak/kunst_keyboard)
 
@@ -88,7 +86,6 @@ last update: 2023-11-14
 - [WootingKb/wooting-macros: The official Wooting Macros software.](https://github.com/WootingKb/wooting-macros)  
 
 ## keyboard microcontrollers
-
 promicro footprint rp2040
 - [plut0nium/0xB2: Pro-Micro/Elite-C replacement with RP2040 and USB-C](https://github.com/plut0nium/0xB2) - stacks has this
 - [sadekbaroudi/svlinky: Pro-Micro replacement with RP2040, USB-C, and a VIK connector](https://github.com/sadekbaroudi/svlinky/) 
@@ -99,7 +96,6 @@ promicro footprint rp2040
 - [EmpWorks/Arcadia: rpi 2040 based microcontroller designed to be drop in replacement for a pro micro, USB-C, debug pins](https://github.com/EmpWorks/Arcadia)
 
 ## keyboard ki-cad component libraries 
-
 - [Digi-Key/digikey-kicad-library: An atomic parts library for Ki-Cad.](https://github.com/Digi-Key/digikey-kicad-library) 
 - [crides/kleeb: Collection of Kicad 6.0 symbols, footprints and 3D models useful in keyboard creation](https://github.com/crides/kleeb)
 - [Salicylic-acid3/KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint)
