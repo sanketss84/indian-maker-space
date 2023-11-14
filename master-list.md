@@ -28,6 +28,7 @@ Location: India
 - [PCB Manufacturing Service - Robu.in](https://robu.in/product/online-pcb-manufacturing-service/) 
 - [PCB Manufacturing Service - StacksKB](https://stackskb.com/pcb-manufacturing-service/) 
 - [Lioncircuits](https://www.lioncircuits.com/)  
+- [ThinkRobotics - PCB Designing Service](https://thinkrobotics.com/pages/pcb)  
 
 Location: China
 - [JLCPCB](https://jlcpcb.com/)  
@@ -69,9 +70,20 @@ Location: India
 - [A3DXYZ](https://a3dxyz.com/)  
 - [SAP 3D](https://sap3d.com/)  
 - [Robu.in - 3d printing services](https://robu.in/product-category/3d-printer-parts/3d-printing-service/)
+- [ThinkRobotics - 3D Printing Services](https://thinkrobotics.com/pages/3d-printing-services)  
 
 ## pc builds 
 Location: India
 
 - [prime abgb](https://www.primeabgb.com/)  
 - [EliteHubs.com](https://elitehubs.com/)
+
+## drones fpv
+- [ANUBIS RC](https://anubisrc.com/)  
+- [drkstore.in](https://www.drkstore.in/)  
+- [Quadkart](https://www.quadkart.in/)
+- [Run Rc](https://runrc.in/)    
+- [RC Mumbai](https://rcmumbai.com/)  
+- [Robu.in - Drone Parts: Buy Drone Components at Best Price in India](https://robu.in/product-category/drone-parts/)  
+- [ThinkRobotics - drones](https://thinkrobotics.com/collections/buy-drones-and-drone-accessories-online)  
+- [UAVGarage](https://uavgarage.com/)  
