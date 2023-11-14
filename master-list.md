@@ -73,13 +73,13 @@ Location: India
 - [Robu.in - 3d printing services](https://robu.in/product-category/3d-printer-parts/3d-printing-service/)
 - [ThinkRobotics - 3D Printing Services](https://thinkrobotics.com/pages/3d-printing-services)  
 
-## pc builds 
+## pc build spares
 Location: India
 
 - [prime abgb](https://www.primeabgb.com/)  
 - [EliteHubs.com](https://elitehubs.com/)
 
-## drones fpv
+## drones fpv spares
 - [ANUBIS RC](https://anubisrc.com/)  
 - [drkstore.in](https://www.drkstore.in/)  
 - [Quadkart](https://www.quadkart.in/)
